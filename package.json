@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "静态网页练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenLoveYuan/StaticeWebDemo.git"
+  },
+  "author": "刘永森",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SenLoveYuan/StaticeWebDemo/issues"
+  },
+  "homepage": "https://github.com/SenLoveYuan/StaticeWebDemo#readme"
+}
